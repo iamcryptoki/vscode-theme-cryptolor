@@ -1,0 +1,23 @@
+{
+  "name": "cryptolor",
+  "displayName": "Cryptolor",
+  "description": "Cryptolor is a dark theme for Visual Studio Code.",
+  "icon": "images/icon.png",
+  "version": "1.0.0",
+  "publisher": "iamcryptoki",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": ["Themes"],
+  "repository": "https://github.com/iamcryptoki/vscode-theme-cryptolor",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cryptolor",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cryptolor-color-theme.json"
+      }
+    ]
+  }
+}
