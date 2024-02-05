@@ -10,15 +10,8 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iamcryptoki/vscode-theme-cryptolor/main/images/screenshot_js.png" />
+  <img src="https://raw.githubusercontent.com/iamcryptoki/vscode-theme-cryptolor/main/images/screenshot.png" />
 </div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iamcryptoki/vscode-theme-cryptolor/main/images/screenshot_go.png" />
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iamcryptoki/vscode-theme-cryptolor/main/images/screenshot_yaml.png" />
-</div>
-
 ## Installation
 
 1. Open the Extensions sidebar in Visual Studio Code.
