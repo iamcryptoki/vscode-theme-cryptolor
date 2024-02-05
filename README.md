@@ -4,7 +4,9 @@
   <img src="https://raw.githubusercontent.com/iamcryptoki/vscode-theme-cryptolor/main/images/readme_banner.jpg" />
 </div>
 
+<br>
 Cryptolor is a dark theme for Visual Studio Code.
+<br>
 
 ## Screenshots
 
