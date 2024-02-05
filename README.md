@@ -3,6 +3,7 @@
 <br>
 <div align="center">
   <p>Cryptolor is a dark theme for Visual Studio Code.</p>
+</div>
 <br>
 
 <div align="center">
