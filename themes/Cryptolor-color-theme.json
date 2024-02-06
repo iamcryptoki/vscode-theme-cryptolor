@@ -787,23 +787,17 @@
 		}
 	],
 	"colors": {
-		// Base
 		"focusBorder": "#0f1117",
-		// Activity Bar
 		"activityBar.background": "#1B1C21",
 		"activityBar.foreground": "#84FFFF",
 		"activityBar.inactiveForeground": "#FFFFFF",
 		"activityBarBadge.background": "#1B1C21",
 		"activityBarBadge.foreground": "#84FFFF",
-		// Breadcrumbs
 		"breadcrumb.background": "#1B1C21",
-		// Buttons
 		"button.background": "#82B1FF",
 		"button.foreground": "#1B1C21",
 		"button.hoverBackground": "#84FFFF",
-		// Dropdowns
 		"dropdown.background": "#0f1117",
-		// Editor
 		"editor.background": "#1B1C21",
 		"editor.foreground": "#FFFFFF",
 		"editor.findMatchBackground": "#0f1117",
@@ -829,40 +823,30 @@
 		"editorWhitespace.foreground": "#21252a",
 		"editorWidget.background": "#1B1C21",
 		"editorWidget.foreground": "#FFFFFF",
-		// Inputs
 		"input.background": "#21252a",
 		"input.border": "#1B1C21",
-		// Lists
 		"list.activeSelectionBackground": "#21252a",
 		"list.activeSelectionForeground": "#FFFFFF",
 		"list.hoverBackground": "#21252a",
 		"list.inactiveSelectionBackground": "#21252a",
-		// Peek View
 		"peekViewEditor.matchHighlightBackground": "#31353c",
 		"peekViewResult.matchHighlightBackground": "#88C0D033",
-		// Scroll Bar
 		"scrollbar.shadow": "#141519",
-		// Side Bar
 		"sideBar.background": "#1B1C21",
 		"sideBarSectionHeader.background": "#0f1117",
 		"sideBarSectionHeader.foreground": "#FFFFFF",
 		"sideBarTitle.foreground": "#FFFFFF",
-		// Status Bar
 		"statusBar.background": "#1B1C21",
-		// Tabs
 		"tab.activeBackground": "#0f1117",
 		"tab.border": "#0f1117",
 		"tab.hoverBackground": "#0f1117",
 		"tab.inactiveBackground": "#1B1C21",
-		// Text
 		"textLink.activeForeground": "#84FFFF",
 		"textLink.foreground": "#82B1FF",
-		// Title Bar
 		"titleBar.activeBackground": "#1B1C21",
-    "titleBar.activeForeground": "#FFFFFF",
-    "titleBar.inactiveBackground": "#1B1C21",
-    "titleBar.inactiveForeground": "#FFFFFF",
-		// Widgets
+		"titleBar.activeForeground": "#FFFFFF",
+		"titleBar.inactiveBackground": "#1B1C21",
+		"titleBar.inactiveForeground": "#FFFFFF",
 		"widget.shadow": "#141519",
 	},
 	"name": "Cryptolor"
